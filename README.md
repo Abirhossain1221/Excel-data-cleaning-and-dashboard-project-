@@ -5,13 +5,13 @@ It includes inconsistencies in formatting, missing values, and mixed data types 
 I have cleaned the data using Excel and created an interactive dashboard. 
 
 ## Dataset Used
-- <a https://www.kaggle.com/datasets/urvishahir/global-freelancers-raw-dataset
--Each entry includes demographic, professional, and platform-related information such as:
--Name, gender, age, and country
--Primary skill and years of experience
--Hourly rate (with mixed formatting), client rating, and satisfaction score
--Language spoken (based on country)
--Inconsistent and unclean values across several fields (e.g., gender, is_active, satisfaction)
+Each entry includes demographic, professional, and platform-related information such as:
+Name, gender, age, and country
+Primary skill and years of experience
+Hourly rate (with mixed formatting), client rating, and satisfaction score
+Language spoken (based on country)
+Inconsistent and unclean values across several fields (e.g., gender, is_active, satisfaction)
+https://www.kaggle.com/datasets/urvishahir/global-freelancers-raw-dataset
 
 ## Dashborad 
 <img width="1326" height="488" alt="Freelancers Dashboard" src="https://github.com/user-attachments/assets/a3bfc3b2-e4fa-4b95-b5ca-b7da80374acc" />
