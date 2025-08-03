@@ -15,3 +15,6 @@ https://www.kaggle.com/datasets/urvishahir/global-freelancers-raw-dataset
 
 ## Dashborad 
 <img width="1326" height="488" alt="Freelancers Dashboard" src="https://github.com/user-attachments/assets/a3bfc3b2-e4fa-4b95-b5ca-b7da80374acc" />
+
+## Project insight
+This project covered everything from data cleaning and standardization to pivot tables, slicers, and dashboard design
